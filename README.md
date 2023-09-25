@@ -18,7 +18,7 @@ default port is 8000. to change port, go to server.js file and change manually.
 
 to run n develop mode with nodemon
 
-````
+```
 npm run watch
 ```
 
